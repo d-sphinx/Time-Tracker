@@ -1,0 +1,23 @@
+.main-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.counter {
+    font-size: large;
+}
+
+.list {
+    padding-top: 20px;
+    font-size: medium;
+    text-align: left;
+}
+
+.header {
+    padding-top: 20px;
+    font-size: x-large;
+}
+
+.total {
+    font-weight: bold;
+}
